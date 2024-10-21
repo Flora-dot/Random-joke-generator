@@ -19,6 +19,7 @@ body {
 
 .wrapper p{
     opacity: 0;
+    text-align: center;
     color: white;
     font-size: 18px;
 }
